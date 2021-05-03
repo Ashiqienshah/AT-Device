@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">AT Device Catalogue_31032021</langstring>
+          <langstring xml:lang="x-none">AT Device Catalogue_190421_v2</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="AT_Device_Catalogue_31032021_ORG">
-    <organization identifier="AT_Device_Catalogue_31032021_ORG">
-      <title>AT Device Catalogue_31032021</title>
+  <organizations default="AT_Device_Catalogue_190421_v2_ORG">
+    <organization identifier="AT_Device_Catalogue_190421_v2_ORG">
+      <title>AT Device Catalogue_190421_v2</title>
       <item identifier="AT_Device_Catalogue_SCO" isvisible="true" identifierref="__5kIzz57cyQB_course_id_RES">
-        <title>AT Device Catalogue_31032021</title>
+        <title>AT Device Catalogue_190421_v2</title>
       </item>
     </organization>
   </organizations>
@@ -66,7 +66,7 @@
       <file href="mobile/6SZxsbZ8mje_80_P_1372_672_558_388_DX1654_DY1654_CX474_CY330.png" />
       <file href="mobile/6CnNeaehTUk_80_DX232_DY232_CX243_CY154.png" />
       <file href="mobile/60zZAorjSbI_80_P_405_672_439_130_DX1470_DY1470_CX330_CY98.png" />
-      <file href="story_content/67N8ypKzjXb_44100_48_0.mp3" />
+      <file href="story_content/5YcVTvpRGr6_44100_48_0.mp3" />
       <file href="story_content/6nj9M8v8JmZ_44100_48_0.mp3" />
       <file href="story_content/6I6p8E6BVAd_44100_48_0.mp3" />
       <file href="mobile/5eBFEq8hHOL_80_DX1440_DY1440_CX1508_CY849.png" />
@@ -243,10 +243,9 @@
       <file href="mobile/5irZ7A7euRP_80_P_136_252_805_181_DX1440_DY1440_CX594_CY134.png" />
       <file href="story_content/6gzBhCqeYya_44100_48_0.mp3" />
       <file href="story_content/6d734g4LLsO_44100_48_0.mp3" />
-      <file href="story_content/6SMJBC7dfds_44100_48_0.mp3" />
       <file href="story_content/6K32jGaT0x4_44100_48_0.mp3" />
       <file href="meta.xml" />
-      <file href="mobile/6RdS0K9TGW7.png" />
+      <file href="mobile/6XLmDRxJPPn.png" />
       <file href="story_content/user.js" />
       <file href="mobile/Shape6GKQVfEHOSm.png" />
       <file href="mobile/Shape5r8IERC0lJU.png" />
@@ -274,8 +273,10 @@
       <file href="html5/data/js/5jvTivuot8r.js" />
       <file href="html5/data/js/5k7hFgwJfMQ.js" />
       <file href="html5/data/js/5mZvkHrKLp3.js" />
+      <file href="html5/data/js/5qItqXRoMXT.js" />
       <file href="html5/data/js/5W865QDpsCZ.js" />
       <file href="html5/data/js/5wlVn7z4YjU.js" />
+      <file href="html5/data/js/5xwRcYqU0zq.js" />
       <file href="html5/data/js/5Yey6E7Aae0.js" />
       <file href="html5/data/js/61yr1iSCu35.js" />
       <file href="html5/data/js/64MXTCtHoBP.js" />
