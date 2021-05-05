@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_5kIzz57cyQB_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6MK0nUbUfgp_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">AT Device Catalogue_190421_v2</langstring>
+          <langstring xml:lang="x-none">AT Device Catalogue</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,16 +50,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="AT_Device_Catalogue_190421_v2_ORG">
-    <organization identifier="AT_Device_Catalogue_190421_v2_ORG">
-      <title>AT Device Catalogue_190421_v2</title>
-      <item identifier="AT_Device_Catalogue_SCO" isvisible="true" identifierref="__5kIzz57cyQB_course_id_RES">
-        <title>AT Device Catalogue_190421_v2</title>
+  <organizations default="AT_Device_Catalogue_ORG">
+    <organization identifier="AT_Device_Catalogue_ORG">
+      <title>AT Device Catalogue</title>
+      <item identifier="AT_Device_Catalogue_SCO" isvisible="true" identifierref="__6MK0nUbUfgp_course_id_RES">
+        <title>AT Device Catalogue</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5kIzz57cyQB_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6MK0nUbUfgp_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6fWOpXeGpf9_80_DX1440_DY1440_CX1509_CY849.png" />
       <file href="mobile/6hXMaTznX6y_80_P_962_260_901_721_DX1250_DY1250_CX576_CY461.png" />
@@ -217,7 +217,7 @@
       <file href="story_content/6YYCujza3bS_44100_48_0.mp3" />
       <file href="story_content/6KvuCSyIvjo_44100_48_0.mp3" />
       <file href="story_content/6lLvs51L0aN_44100_48_0.mp3" />
-      <file href="story_content/5xHxKfVl7yZ_44100_48_0.mp3" />
+      <file href="story_content/6TT1CSBxBPf_44100_48_0.mp3" />
       <file href="story_content/6BAZRqIE2LL_44100_48_0.mp3" />
       <file href="mobile/5lCfX3mAUCv_80_DX700_DY700_CX230_CY249.png" />
       <file href="mobile/63VHexTzm3Y_80_DX702_DY702_CX232_CY251.png" />
@@ -245,7 +245,7 @@
       <file href="story_content/6d734g4LLsO_44100_48_0.mp3" />
       <file href="story_content/6K32jGaT0x4_44100_48_0.mp3" />
       <file href="meta.xml" />
-      <file href="mobile/6XLmDRxJPPn.png" />
+      <file href="mobile/64TCLB5GKOL.png" />
       <file href="story_content/user.js" />
       <file href="mobile/Shape6GKQVfEHOSm.png" />
       <file href="mobile/Shape5r8IERC0lJU.png" />
